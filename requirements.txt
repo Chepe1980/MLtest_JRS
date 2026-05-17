@@ -6,6 +6,7 @@ scikit-learn
 pandas
 rich
 #tensorflow
+tensorflow>=2.13.0
 tensorflow_probability 
 seaborn
 deap>=1.3.1
