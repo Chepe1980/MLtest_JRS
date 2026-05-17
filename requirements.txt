@@ -5,7 +5,7 @@ matplotlib
 scikit-learn
 pandas
 rich
-#tensorflow
+tensorflow
 tensorflow>=2.13.0
 tensorflow_probability 
 seaborn
